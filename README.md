@@ -1,5 +1,5 @@
 # proyecto-CSS
-Primer proyecto con CSS básico.
+Primer proyecto con CSS básico. Julio, 2023.
 
 Ejercicio completo con HTML y CSS.
 
