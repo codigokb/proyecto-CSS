@@ -11,12 +11,11 @@
     El Footer debe tener un ancho del 100% del div que lo contiene y estar abajo del todo.
 */
 
-
 *{
     margin: 0px;
     padding: 0px;
     text-decoration: none;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 #general{
@@ -29,10 +28,10 @@
 #header{
     width: 100%;
     height: 100px;
-    background: rgb(15, 112, 236);
+    background: rgb(15, 122, 236);
     color: white;
     text-align: center;
-    line-height: 90px;
+    line-height: 90px; 
 }
 
 .clearfix{
@@ -45,20 +44,19 @@
 }
 
 #menu ul li{
-    /*display: inline-block;*/
     display: block;
     float: left;
     border-right: 1px solid #ccc;
 }
 
 #menu ul li a{
-    display: block;
     padding: 15px;
+    display: block;
     color: #444;
 }
 
 #menu ul li:hover{
-    background:rgb(13, 71, 148);
+    background: rgb(16, 75, 143);
     cursor: pointer;
 }
 
@@ -97,7 +95,7 @@
     margin-left: 40px;
 }
 
-footer{
+#footer{
     width: 100%;
     height: 55px;
     line-height: 55px;
