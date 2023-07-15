@@ -44,6 +44,7 @@
 }
 
 #menu ul li{
+    /*display: inline-block;*/
     display: block;
     float: left;
     border-right: 1px solid #ccc;
@@ -70,8 +71,8 @@
 }
 
 #lateral{
-    width: 30%;
     float: left;
+    width: 30%;
     border: 1px solid red;
     min-height: 500px;
     text-align: center;
