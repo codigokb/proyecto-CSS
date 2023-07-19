@@ -8,7 +8,7 @@
     x-El contenido principal debe tener un ancho del 70%.
     x-El contenido dentro del contenedor principal debe ser una cuadricula con 4 lineas de 2 cajas.
     x-La barra lateral debe tener un ancho del 30%.
-    El Footer debe tener un ancho del 100% del div que lo contiene y estar abajo del todo.
+    x-El Footer debe tener un ancho del 100% del div que lo contiene y estar abajo del todo.
 */
 
 *{
