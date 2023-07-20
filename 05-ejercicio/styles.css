@@ -15,7 +15,7 @@
     margin: 0px;
     padding: 0px;
     text-decoration: none;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
 #general{
@@ -57,7 +57,7 @@
 }
 
 #menu ul li:hover{
-    background: rgb(15, 112, 236);
+    background: rgb(13, 71, 148);
     cursor: pointer;
 }
 
