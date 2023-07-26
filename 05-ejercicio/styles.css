@@ -1,13 +1,13 @@
 /*Ejercicio completo con HTML y CSS.
 
-    x-Crear un documento HTML y vincularlo con un CSS.
-    x-Crear una estructura HTML que cuente con un CONTENEDOR GENERAL, CABECERA, MENU, BARRA LATERAL, SECCION DE CONTENIDO PRINCIPAL, ELEMENTOS DENTRO DEL CONTENEDOR PRINCIPAL Y FOOTER.
-    x-Todo el contenido debe estar dentro del contenedor general y su ancho sera de 1200px y estar centrado.
-    x-El Header debe ocupar el 100% del ancho y tener un texto grande centrado.
-    x-El menu debe contener los elementos uno al lado del otro.
-    x-El contenido principal debe tener un ancho del 70%.
-    x-El contenido dentro del contenedor principal debe ser una cuadricula con 4 lineas de 2 cajas.
-    x-La barra lateral debe tener un ancho del 30%.
+    Crear un documento HTML y vincularlo con un CSS.
+    Crear una estructura HTML que cuente con un CONTENEDOR GENERAL, CABECERA, MENU, BARRA LATERAL, SECCION DE CONTENIDO PRINCIPAL, ELEMENTOS DENTRO DEL CONTENEDOR PRINCIPAL Y FOOTER.
+    Todo el contenido debe estar dentro del contenedor general y su ancho sera de 1200px y estar centrado.
+    El Header debe ocupar el 100% del ancho y tener un texto grande centrado.
+    El menu debe contener los elementos uno al lado del otro.
+    El contenido principal debe tener un ancho del 70%.
+    El contenido dentro del contenedor principal debe ser una cuadricula con 4 lineas de 2 cajas.
+    La barra lateral debe tener un ancho del 30%.
     El Footer debe tener un ancho del 100% del div que lo contiene y estar abajo del todo.
 */
 
@@ -98,7 +98,7 @@
 
 #footer{
     width: 100%;
-    height: 55%;
+    height: 55px;
     line-height: 55px;
     background-color: #eee;
     text-align: center;
